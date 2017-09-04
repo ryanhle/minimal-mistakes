@@ -13,7 +13,7 @@ I found my classes on time! I have two in the stadium and I had an interesting t
 I still have to get more books. When I last went to the Co-op, they had a sign up saying the books were delayed again because of the hurricane.
 
 ## What will you do next week?
-Next week, I will make another attempt at the bookstore. I will try to get my academic life sorted out. Even though I made it to my classes, I'm not entirely sure what I'm enrolled in or their expectations. I will try to do my assigned readings. So many classes have assigned multiple chapters. I'm not sure I can get through them all.
+Next week, I will make another attempt at the bookstore. I will try to get my academic life sorted out. Even though I made it to my classes, I'm not entirely sure what I'm enrolled in or their expectations. I will try to do my assigned readings. So many classes have assigned multiple chapters. I'm not sure I can get through them all. I also need to get a professional photo. 
 
 ## What's my experience of the class?
 So far, it's alright. I'm not thrown off by the professor's teaching style this year. He'll call on someone and have "conversations" about the material. I think it's rather curious, but fine. The first full day of lecture felt a whole like the first full day of OOP, but with Python. My friends have told me they're nearly the same until the second project.
